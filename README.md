@@ -1,2 +1,2 @@
 # icpscenariogame
-NUVAMA scenario game just like ASTA
+ICPL version of ASTA- WIP
